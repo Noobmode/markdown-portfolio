@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+# Business plan
+1. Steal underwear
+2. ?
+3. Profit
+
+## Goals
+* Learn to use GitHub
+* Learn to code
+* Have fun!
